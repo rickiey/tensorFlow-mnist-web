@@ -13,7 +13,7 @@
 4. 其他事项见代码注释，或自行查找
 5. 有关tensorflow更多信息还是去看[tensorflow的官方文档](http://www.tensorfly.cn/tfdoc/api_docs/index.html)
 ------------------
-> 本人运行环境
+> 运行环境
 > win10 64位  
 [Anaconda3-5.0.0-windows-x86_64](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)   
 > [Pycharm-edu](https://www.jetbrains.com/pycharm-edu/download/#section=windows)
